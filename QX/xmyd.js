@@ -2,7 +2,7 @@
 by David
 电报群：https://t.me/china20211029
 boxjs地址： https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/David.boxjs.json
-转载请备注名字，谢谢!
+转载请备注名字，谢谢!!
 ⚠️ 小米运动 应用商店自行搜索下载
 ⚠️ 功能：同步步数到微信和支付宝，默认随机20000-30000步，好处懂的人自然懂
 ⚠️ 第一次同步前需要进入APP在第三方接口处绑定微信或者支付宝
