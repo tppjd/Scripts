@@ -4,7 +4,7 @@ boxjs: https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/David.boxjs.json
 /* 
 by David
 boxjs地址：  https://raw.githubusercontent.com/bluesmallpig/scripts/main/David.boxjs.json
-转载请备注名字，谢谢!
+转载请备注名字，谢谢!!
 */
 ⚠️ 追书神器，商店自行搜索下载
 ⚠️ 此脚本采用免费模式，授权3个账号
