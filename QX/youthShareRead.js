@@ -4,7 +4,7 @@ Date: 2021.7.4 22:25
 中青分享阅读助力10次
 
 使用方法：
-Quantumuil X：添加远程重写
+Quantumuil X：添加远程重写1
 [rewrite_remote]
 https://gitee.com/curtinlv/qx/raw/master/rewrite/youth.conf, tag=中青 by Curtin, update-interval=172800, opt-parser=false, enabled=true
 
