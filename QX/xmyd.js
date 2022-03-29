@@ -1,5 +1,5 @@
 /*
-登陆一次即可获取数据
+小米运动：登陆一次即可获取数据
 TG电报群: 群已私有，入群私聊机器人 @DavidLoveBot
 boxjs: https://cdn.jsdelivr.net/gh/bluesmallpig/scripts/David.boxjs.json
 */
