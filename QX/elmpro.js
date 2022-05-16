@@ -18,7 +18,7 @@ export elmCookie="SID=yyyyyyyyyyyyy&USERID=123456&latitude=22.xxxxx&longitude=11
 饿了么app 或 支付宝饿了么小程序 或 微信饿了么小程序 -> 我的 -> 赚吃货豆
 [task_local]
 #饿了么pro
-2 0,20 * * * https://raw.githubusercontent.com/leafTheFish/DeathNote/main/elm_pro.js, tag=饿了么pro, enabled=true
+2 0,20 * * * https://raw.githubusercontent.com/tppjd/Scripts/master/QX/elmpro.js, tag=饿了么pro, enabled=true
 [rewrite_local]
 https://h5.ele.me/restapi/biz.growth_finetune/v1/finetune/operate? url script-request-header https://raw.githubusercontent.com/leafTheFish/DeathNote/main/elm_pro.js
 [MITM]
