@@ -29,9 +29,9 @@ hostname = *.snssdk.com
 
 #圈x
 [rewrite local]
-luckycat/novel/v1/task/sign_in/* url script-request-header fqxs.js
+luckycat/novel/v1/task/sign_in/* url script-request-header https://raw.githubusercontent.com/tppjd/Scripts/master/QX/fqxs.js
 
-luckycat/novel/v1/task/done/excitation_ad_treasure_box/* url script-request-header fqxs.js
+luckycat/novel/v1/task/done/excitation_ad_treasure_box/* url script-request-header https://raw.githubusercontent.com/tppjd/Scripts/master/QX/fqxs.js
 
 
 
