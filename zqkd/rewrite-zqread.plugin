@@ -1,4 +1,3 @@
-
 // 中青看点极速版复写配置，QX可在开启解析器情况下使用
 
 [MITM]
@@ -6,4 +5,4 @@ hostname = ios.baertt.com, kandian.wkandian.com
 
 [Script]
 # 获取阅读所需数据：配置好此重写规则，进入app待阅读的文章视频页面，获取完阅读数据后返回，进入下一个阅读页面
-http-request ^https?://(ios\.baertt|kandian\.wkandian)\.com/v5/article/(info/get|info|detail)\.json script-path=https://raw.githubusercontent.com/tppjd/Scripts/master/QX/zqread.js, tag=获取阅读数据
+http-request ^https?://(ios\.baertt|kandian\.wkandian)\.com/v5/article/(info/get|info|detail)\.json script-path=https://raw.githubusercontent.com/tppjd/Scripts/master/zqkd/zqread.js, tag=获取阅读数据
