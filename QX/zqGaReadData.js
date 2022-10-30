@@ -1,14 +1,4 @@
-/*
-本脚本用于中青看点极速版获取阅读数据及刷阅读得青豆、刷阅读时长得奖励，仅适用NE工具，因为脚本中有持久化操作
-
-注意：去重排序模式是为了优化刷阅读任务的效率（单个有效视频数据阅读次数上限大，将其排前面，在循环阅读时有更多机会执行；移除中青判断为重复的数据，让阅读数据首次执行时获得更高奖励及避免循环阅读时因达到上限无法获得奖励，浪费一次阅读时间间隔的执行机会）
-
-中青看点数据抓取Loon插件地址（QX开启解析器时可使用）：根据@Sunert大佬的获取中青ck代码改版成支持多账号
-https://raw.githubusercontent.com/tppjd/Scripts/master/QX/rewrite-zq.plugin
-
-中青看点阅读数据抓取Loon插件地址（QX开启解析器时可使用）：
-https://raw.githubusercontent.com/tppjd/Scripts/master/QX/rewrite-zqread.plugin
-
+/*中青阅读打印
 */
 
 const $ = new Env(`中青阅读打印`);
